@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.kinanz.cn/sitemap.xml
